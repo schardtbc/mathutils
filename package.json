@@ -39,5 +39,11 @@
   "files": [
     "lib/**/*"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "@types/thrift": "0.10.7",
+    "apache-arrow": "0.3.1",
+    "fs": "0.0.1-security",
+    "parquetjs": "0.10.1",
+    "parquets": "0.8.16"
+  }
 }
